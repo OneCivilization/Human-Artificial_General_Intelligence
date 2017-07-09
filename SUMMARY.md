@@ -16,7 +16,7 @@
 
 ## AGI的体系结构
 
-* [AGI的体系结构及其相互关系](agide-ti-xi-jie-gou/agide-ti-xi-jie-gou-ji-qi-xiang-hu-guan-xi.md)
+* [概述](agide-ti-xi-jie-gou/agide-ti-xi-jie-gou-ji-qi-xiang-hu-guan-xi.md)
 * [情感系统](agide-ti-xi-jie-gou/qing-gan-xi-tong.md)
 * [决策系统](agide-ti-xi-jie-gou/jue-ce-xi-tong.md)
 * [学习系统](agide-ti-xi-jie-gou/xue-xi-xi-tong.md)
