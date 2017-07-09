@@ -1,6 +1,6 @@
 # 关于本书
 
-这是一本关于AGI（_Artificial General Intelligence_）的书，同时也是一本关于人类自身的书。如果你对研究创造AGI感兴趣，或是想知道自己以及这个世界究竟是怎么一回事、自己从哪里来又要到哪里去、究竟该怎样生活等问题的答案，那么本书很可能会引起你的兴趣并为你提供有用的帮助。
+这是一本关于[AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)（_Artificial General Intelligence_）的书，同时也是一本关于人类自身的书。如果你对研究创造AGI感兴趣，或是想知道自己以及这个世界究竟是怎么一回事、自己从哪里来又要到哪里去、究竟该怎样生活等问题的答案，那么本书很可能会引起你的兴趣并为你提供有用的帮助。
 
 AGI即通用人工智能，亦称为强人工智能（_Strong AI_）、人类级AI（_human-level AI_），可以通俗地理解为能在任何环境下学习并作出合理行动的智能Agent，简单的来说就是内在和表现都像人类那样的智能系统（_而不是像弱人工智能或机器学习算法那样限定在某一特定领域_）。
 
@@ -9,6 +9,8 @@ AGI即通用人工智能，亦称为强人工智能（_Strong AI_）、人类级
 本书分为两个部分，第一部分是AGI概论，主要讲述为什么研发AGI、AGI的定义、AGI的研究方法以及研究历史。第二部分是AGI的体系结构，主要讲述AGI的内部原理以及如何实现AGI，分为五个部分：情感系统、决策系统、学习系统、记忆系统以及IO接口。
 
 **本书内容未经作者允许禁止转载**
+
+本书地址：[https://onecivilization.gitbooks.io/artificial-general-intelligence/content/](https://onecivilization.gitbooks.io/artificial-general-intelligence/content/)
 
 # 关于作者
 
