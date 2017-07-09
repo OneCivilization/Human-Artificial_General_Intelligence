@@ -1,4 +1,4 @@
-# 关于本书
+# 关于本书（连载中）
 
 这是一本关于[AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)（_Artificial General Intelligence_）的书，同时也是一本关于人类自身的书。如果你对研究创造AGI感兴趣，或是想知道自己以及这个世界究竟是怎么一回事、自己从哪里来又要到哪里去、究竟该怎样生活等问题的答案，那么本书很可能会引起你的兴趣并为你提供有用的帮助。
 

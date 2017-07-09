@@ -5,11 +5,13 @@
 ## AGI概论
 
 * [1.1 为什么研发AGI](agigai-lun/wei-shi-yao-yan-fa-agi.md)
-  * [1.1.1 生命是什么](agigai-lun/wei-shi-yao-yan-fa-agi/shi-yao-shi-sheng-ming.md)
-  * [1.1.2 人类的困境](agigai-lun/wei-shi-yao-yan-fa-agi/ren-lei-de-kun-jing.md)
-  * [1.1.3 AGI的意义](agigai-lun/wei-shi-yao-yan-fa-agi/agide-yi-yi.md)
-  * [1.1.4 AGI的风险](agigai-lun/wei-shi-yao-yan-fa-agi/agide-feng-xian.md)
-  * [1.1.5 存在AGI的未来](agigai-lun/wei-shi-yao-yan-fa-agi/cun-zai-agi-de-wei-lai.md)
+  * [宇宙是什么](agigai-lun/wei-shi-yao-yan-fa-agi/yu-zhou-shi-shi-yao.md)
+  * [生命是什么](agigai-lun/wei-shi-yao-yan-fa-agi/shi-yao-shi-sheng-ming.md)
+  * [智能是什么](agigai-lun/wei-shi-yao-yan-fa-agi/zhi-neng-shi-shi-yao.md)
+  * [人类的困境](agigai-lun/wei-shi-yao-yan-fa-agi/ren-lei-de-kun-jing.md)
+  * [AGI的意义](agigai-lun/wei-shi-yao-yan-fa-agi/agide-yi-yi.md)
+  * [AGI的风险](agigai-lun/wei-shi-yao-yan-fa-agi/agide-feng-xian.md)
+  * [存在AGI的未来](agigai-lun/wei-shi-yao-yan-fa-agi/cun-zai-agi-de-wei-lai.md)
 * [1.2 AGI的定义](agigai-lun/agide-ding-yi.md)
 * [1.3 研究AGI的手段](agigai-lun/yan-jiu-agi-de-shou-duan.md)
 * [1.4 AGI的研究历史](agigai-lun/agide-yan-jiu-li-shi.md)
