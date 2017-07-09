@@ -1,6 +1,6 @@
 # Summary
 
-* 介绍
+* [介绍](README.md)
 
 ## AGI概论
 
@@ -22,6 +22,4 @@
 * [学习系统](agide-ti-xi-jie-gou/xue-xi-xi-tong.md)
 * [记忆系统](agide-ti-xi-jie-gou/ji-yi-xi-tong.md)
 * [IO接口](agide-ti-xi-jie-gou/iojie-kou.md)
-
-
 
