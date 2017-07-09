@@ -5,7 +5,7 @@
 ## AGI概论
 
 * [1.1 为什么研发AGI](agigai-lun/wei-shi-yao-yan-fa-agi.md)
-  * [1.1.1 什么是生命](agigai-lun/wei-shi-yao-yan-fa-agi/shi-yao-shi-sheng-ming.md)
+  * [1.1.1 生命是什么](agigai-lun/wei-shi-yao-yan-fa-agi/shi-yao-shi-sheng-ming.md)
   * [1.1.2 人类的困境](agigai-lun/wei-shi-yao-yan-fa-agi/ren-lei-de-kun-jing.md)
   * [1.1.3 AGI的意义](agigai-lun/wei-shi-yao-yan-fa-agi/agide-yi-yi.md)
   * [1.1.4 AGI的风险](agigai-lun/wei-shi-yao-yan-fa-agi/agide-feng-xian.md)
