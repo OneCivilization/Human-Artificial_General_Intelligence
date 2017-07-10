@@ -23,6 +23,7 @@
 ![](https://images-assets.nasa.gov/image/KSC-00padig034/KSC-00padig034~orig.jpg)  
 ![](https://images-assets.nasa.gov/image/iss032e025274/iss032e025274~orig.jpg)  
 ![](https://images-assets.nasa.gov/image/as16-113-18339/as16-113-18339~orig.jpg)  
+![](https://images-assets.nasa.gov/image/as11-44-6551/as11-44-6551~orig.jpg)
 ![](https://images-assets.nasa.gov/image/PIA01120/PIA01120~orig.jpg)  
 ![](https://images-assets.nasa.gov/image/PIA20602/PIA20602~medium.jpg)
 
