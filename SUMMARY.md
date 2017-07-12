@@ -12,6 +12,7 @@
   * [AGI的意义](agigai-lun/wei-shi-yao-yan-fa-agi/agide-yi-yi.md)
   * [AGI的风险](agigai-lun/wei-shi-yao-yan-fa-agi/agide-feng-xian.md)
   * [存在AGI的未来](agigai-lun/wei-shi-yao-yan-fa-agi/cun-zai-agi-de-wei-lai.md)
+  * 总结
 * [1.2 AGI的定义](agigai-lun/agide-ding-yi.md)
 * [1.3 研究AGI的手段](agigai-lun/yan-jiu-agi-de-shou-duan.md)
 * [1.4 AGI的研究历史](agigai-lun/agide-yan-jiu-li-shi.md)

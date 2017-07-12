@@ -63,13 +63,13 @@
 * 所有细胞的代谢方式都是基于[中心法则](https://zh.wikipedia.org/wiki/中心法則)的
 * 几乎所有生物都使用同一套[密码子](https://zh.wikipedia.org/wiki/遗传密码)表
 
-基于这些一致性，我们可以认为所有的生物有着共同的起源——正如上面的系统发生树所显示的那样。而生物的这种一致性和同源性也使得我们对于生命本质的探究轻松了许多——**我们可以不必受限于生命的具体形式（物种），只需专心探究细胞就可以了**。
+基于这些一致性，我们可以认为所有的生物有着共同的起源——正如上面的[系统发生树](https://zh.wikipedia.org/wiki/系統發生樹)所显示的那样。而生物的这种一致性和同源性也使得我们对于生命本质的探究轻松了许多——**我们可以不必受限于生命的具体形式（物种），只需专心探究细胞就可以了**。
 
 [![](http://www.hksports.net/hkpe/anatomy_physiology/images/cell_structure.jpg)](http://www.hksports.net/hkpe/anatomy_physiology/cell.htm)_左图：一个典型的动物_[_真核细胞_](https://zh.wikipedia.org/wiki/真核生物#.E7.9C.9F.E6.A0.B8.E7.BB.86.E8.83.9E)_的结构模型_
 
-借助[细胞生物学](https://zh.wikipedia.org/wiki/细胞生物学)、[分子生物学](https://zh.wikipedia.org/wiki/分子生物学)以及[系统生物学](https://zh.wikipedia.org/wiki/系统生物学)的研究，我们可以得到这样的结论：细胞的[代谢](https://zh.wikipedia.org/wiki/代谢)方式基于[中心法则](https://zh.wikipedia.org/wiki/中心法則)，在代谢过程中，[基因](https://zh.wikipedia.org/wiki/基因)、[转录因子](https://zh.wikipedia.org/wiki/转录因子)以及其相互作用关系组成了[转录网络](http://www.weizmann.ac.il/mcb/UriAlon/e-coli-transcription-network)，转录过程正是基于转录网络并由其中的各种[网络模体](http://www.weizmann.ac.il/mcb/UriAlon/research/network-motifs)控制进行的，而转录产物则最终导致了细胞的各种具体行为。
+借助[细胞生物学](https://zh.wikipedia.org/wiki/细胞生物学)、[分子生物学](https://zh.wikipedia.org/wiki/分子生物学)以及[系统生物学](https://zh.wikipedia.org/wiki/系统生物学)的研究，我们可以得到这样的结论：细胞的[代谢](https://zh.wikipedia.org/wiki/代谢)活动基于[中心法则](https://zh.wikipedia.org/wiki/中心法則)，在代谢过程中，[基因](https://zh.wikipedia.org/wiki/基因)、[转录因子](https://zh.wikipedia.org/wiki/转录因子)以及其相互作用关系组成了[转录网络](http://www.weizmann.ac.il/mcb/UriAlon/e-coli-transcription-network)，转录过程正是基于转录网络并由其中的各种[网络模体](http://www.weizmann.ac.il/mcb/UriAlon/research/network-motifs)控制进行的，而转录产物则最终导致了细胞的各种具体行为。
 
-基于以上结论，我们可以将生命的本质描述如下：**生命是一种复杂的物质及能量的组合及运动的现象**。需要注意的是，与地球绕太阳旋转一样，**生命也同样只是一种物理现象**（属于[耗散系统](https://zh.wikipedia.org/wiki/耗散系統)），同样遵循这个宇宙的物理法则，并没有什么神秘的地方，无非是这个现象很“复杂”（或者说很“精致”）而已。
+基于以上结论，我们可以将生命的本质描述如下：**生命是一种复杂的物质及能量的组合及运动的现象**。需要注意的是，与地球绕太阳旋转一样，**生命也同样只是一种物理现象**（属于[耗散系统](https://zh.wikipedia.org/wiki/耗散系統)），同样遵循这个宇宙的物理法则，并没有什么神秘的地方，无非是这个现象很“复杂”（或者说很“精致”）而已。基于这一结论，由于我们人类也同样属于生命，因此**我们也仅仅只是一种（复杂而精致）物理现象而已**，并没有什么神秘的地方，也没有所谓的[灵魂](https://zh.wikipedia.org/wiki/%E7%81%B5%E9%AD%82)之类的非物质非能量的组成。
 
 ## 生命的起源
 
@@ -89,7 +89,11 @@
 >
 > 生命的演化並不容易，若把[地球](https://zh.wikipedia.org/wiki/地球)誕生至今的這段日子當成一年，雖然三月可能已經有微生物，但要到十一月的第三個星期最簡單的[魚類](https://zh.wikipedia.org/wiki/魚類)才出現。而人類的時間只有佔據最後一分鐘。
 
+而关于完整的生命演化历程，大家可以参考维基百科中的“[生命演化历程](https://zh.wikipedia.org/wiki/生命演化历程)”条目。
+
+基于初中以及高中的生物教育，相信大多数人对于以上内容是比较熟悉的，因此大家可能会觉得并没有什么新奇的地方——毕竟这仅仅只是一个不怎么完善的[假说](https://zh.wikipedia.org/wiki/假说)。然而，如果结合进化论对于这一假说进行仔细考察，我们将可以得出一个**至关重要的结论：生命现象的根本趋势（或者说客观目标），只有一个：存在下去**（_即使这个假说不成立，这个结论也依然成立，下面会解释_）。
+
 ## 生命的意义
 
-[生命的意义](https://zh.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E7%BE%A9)是什么？或许我们会觉得这是一个很正常、很合理的问题（[这个问题经常被我们提出来](https://zh.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E7%BE%A9)），然而从客观角度来讲，这个问题本身就很奇怪——“意义”是什么？仔细思考，你就会发现，“意义”并不是一个客观的概念——“意义”这一概念的出现和使用是必然伴随着一个具有智能的对象的，而没有智能也就没有“意义”这一概念。
+[生命的意义](https://zh.wikipedia.org/wiki/生命的意義)是什么？或许我们会觉得这是一个很正常、很合理的问题（[这个问题经常被我们提出来](https://zh.wikipedia.org/wiki/生命的意義)），然而从[客观](https://zh.wikipedia.org/wiki/客觀性)角度来讲，这个问题本身就很奇怪——“意义”是什么？仔细思考，你就会发现，“意义”并不是一个[客观](https://zh.wikipedia.org/wiki/客觀性)的概念——“意义”这一概念的出现和使用是必然伴随着一个具有智能的[主观](https://zh.wikipedia.org/wiki/主觀)对象的，而没有智能也就没有“意义”这一概念。
 
