@@ -20,7 +20,7 @@
 >
 > 地球诞生于[约45.4亿年前](https://zh.wikipedia.org/wiki/地球的年齡)[\[26\]](https://zh.wikipedia.org/wiki/地球#cite_note-USGS-31)[\[27\]](https://zh.wikipedia.org/wiki/地球#cite_note-Brent2001-32)[\[28\]](https://zh.wikipedia.org/wiki/地球#cite_note-33)[\[29\]](https://zh.wikipedia.org/wiki/地球#cite_note-age_earth1-34)，42億年前開始形成海洋[\[30\]](https://zh.wikipedia.org/wiki/地球#cite_note-Cavosie_etal_2005-35)。并在35亿年前的海洋中出现生命[\[31\]](https://zh.wikipedia.org/wiki/地球#cite_note-Origin1-36)[\[32\]](https://zh.wikipedia.org/wiki/地球#cite_note-Origin2-37)[\[33\]](https://zh.wikipedia.org/wiki/地球#cite_note-RavenJohnson2002-38)[\[34\]](https://zh.wikipedia.org/wiki/地球#cite_note-AP-20131113-39)[\[35\]](https://zh.wikipedia.org/wiki/地球#cite_note-AST-20131108-40)，之后逐步涉足地表和[大气](https://zh.wikipedia.org/wiki/地球大气层)，并分化为[好氧生物](https://zh.wikipedia.org/wiki/好氧生物)和[厌氧生物](https://zh.wikipedia.org/wiki/厌氧生物)。早期生命迹象产生的具體证据包括[格陵兰岛](https://zh.wikipedia.org/wiki/格陵兰岛)西南部[变质沉积岩](https://zh.wikipedia.org/w/index.php?title=变质沉积岩&action=edit&redlink=1)中拥有约37亿年的历史的[生源](https://zh.wikipedia.org/w/index.php?title=生源物质&action=edit&redlink=1)[石墨](https://zh.wikipedia.org/wiki/石墨)，以及[澳大利亚大陆](https://zh.wikipedia.org/wiki/澳大利亞大陸)西部岩石中约41亿年前的[早期生物遗骸](https://zh.wikipedia.org/w/index.php?title=生物材料&action=edit&redlink=1)[\[36\]](https://zh.wikipedia.org/wiki/地球#cite_note-AP-20151019-41)[\[37\]](https://zh.wikipedia.org/wiki/地球#cite_note-PNAS-20151014-pdf-42)。此后除去数次[生物集群灭绝](https://zh.wikipedia.org/wiki/生物集群灭绝)事件，[生物种类不断增多](https://zh.wikipedia.org/wiki/生物多样性)[\[38\]](https://zh.wikipedia.org/wiki/地球#cite_note-SahneyBentonFerry2010-43)。根据学界测定，地球曾存在过的50亿种物种中[\[39\]](https://zh.wikipedia.org/wiki/地球#cite_note-Book-Biology-44)，已经[绝灭](https://zh.wikipedia.org/wiki/绝灭)者占约99%[\[40\]](https://zh.wikipedia.org/wiki/地球#cite_note-StearnsStearns2000-45)[\[41\]](https://zh.wikipedia.org/wiki/地球#cite_note-NYT-20141108-MJN-46)，据统计，现今存活的物种大约有1,200至1,400万个[\[42\]](https://zh.wikipedia.org/wiki/地球#cite_note-science_241_4872_1441-47)[\[43\]](https://zh.wikipedia.org/wiki/地球#cite_note-MillerSpoolman2012-48)，其中有记录证实存活的物种120万个，而余下的86%尚未被正式发现[\[44\]](https://zh.wikipedia.org/wiki/地球#cite_note-PLoS-20110823-49)。2016年5月，有科学家认为现今地球上大概共出现过1万亿种物种，其中人类正式发现的仅占十万分之一[\[45\]](https://zh.wikipedia.org/wiki/地球#cite_note-NSF-2016002-50)。2016年7月，科学家称现存的[生物](https://zh.wikipedia.org/wiki/生物)[共祖](https://zh.wikipedia.org/wiki/共祖)中共存在有355种[基因](https://zh.wikipedia.org/wiki/基因)[\[46\]](https://zh.wikipedia.org/wiki/地球#cite_note-NYT-20160725-51)。地球上有约74亿[人口](https://zh.wikipedia.org/wiki/人口)[\[47\]](https://zh.wikipedia.org/wiki/地球#cite_note-PopCounter-52)，分成了约200个[国家和地区](https://zh.wikipedia.org/wiki/国家列表)，藉由[外交](https://zh.wikipedia.org/wiki/外交)、[旅游](https://zh.wikipedia.org/wiki/旅游)、[贸易](https://zh.wikipedia.org/wiki/贸易)、[传媒](https://zh.wikipedia.org/wiki/传媒)、[战争](https://zh.wikipedia.org/wiki/战争)相互联系[\[48\]](https://zh.wikipedia.org/wiki/地球#cite_note-53)。
 
-相信以上内容已经足够简明易懂，我就不多加说明了。关于地球的探索就到此为止，接下来我们将进入关于生命的讨论。如果您对本小节内容感兴趣的话还可以自行去网络、图书馆里查阅更所相关资料。最后为大家送上一些[地球表层](https://zh.wikipedia.org/wiki/地球圈层)的照片（以下图片来自网络搜索，点击图片可以访问图片来源）：
+相信以上内容已经足够简明易懂，我就不多加说明了。关于地球的探索就到此为止，接下来我们将进入关于生命的讨论。如果你对本小节内容感兴趣的话还可以自行去网络、图书馆里查阅更所相关资料。最后为大家送上一些[地球表层](https://zh.wikipedia.org/wiki/地球圈层)的照片（以下图片来自网络搜索，点击图片可以访问图片来源）：
 
 [![](http://pic1.win4000.com/wallpaper/6/512ab98606b0c.jpg)](http://www.funfate.com/2017/04/27/474249.html)  
 [![](http://cdn1.bostonmagazine.com/wp-content/uploads/sites/2/2017/06/skerry-1.jpg)](http://www.bostonmagazine.com/news/blog/2017/06/11/brian-skerry/)  
@@ -62,6 +62,7 @@
 * 所有细胞的分子组成是基本一致的——核酸、蛋白质、脂质、糖、水等，其元素组成成分也基本一致
 * 所有细胞的代谢方式都是基于[中心法则](https://zh.wikipedia.org/wiki/中心法則)的
 * 几乎所有生物都使用同一套[密码子](https://zh.wikipedia.org/wiki/遗传密码)表
+* 不同生物间似乎总能找到同源的高度保守序列
 
 基于这些一致性，我们可以认为所有的生物有着共同的起源——正如上面的[系统发生树](https://zh.wikipedia.org/wiki/系統發生樹)所显示的那样。而生物的这种一致性和同源性也使得我们对于生命本质的探究轻松了许多——**我们可以不必受限于生命的具体形式（物种），只需专心探究细胞就可以了**。
 
@@ -69,7 +70,7 @@
 
 借助[细胞生物学](https://zh.wikipedia.org/wiki/细胞生物学)、[分子生物学](https://zh.wikipedia.org/wiki/分子生物学)以及[系统生物学](https://zh.wikipedia.org/wiki/系统生物学)的研究，我们可以得到这样的结论：细胞的[代谢](https://zh.wikipedia.org/wiki/代谢)活动基于[中心法则](https://zh.wikipedia.org/wiki/中心法則)，在代谢过程中，[基因](https://zh.wikipedia.org/wiki/基因)、[转录因子](https://zh.wikipedia.org/wiki/转录因子)以及其相互作用关系组成了[转录网络](http://www.weizmann.ac.il/mcb/UriAlon/e-coli-transcription-network)，转录过程正是基于转录网络并由其中的各种[网络模体](http://www.weizmann.ac.il/mcb/UriAlon/research/network-motifs)控制进行的，而转录产物则最终导致了细胞的各种具体行为。
 
-基于以上结论，我们可以将生命的本质描述如下：**生命是一种复杂的物质及能量的组合及运动的现象**。需要注意的是，与地球绕太阳旋转一样，**生命也同样只是一种物理现象**（属于[耗散系统](https://zh.wikipedia.org/wiki/耗散系統)），同样遵循这个宇宙的物理法则，并没有什么神秘的地方，无非是这个现象很“复杂”（或者说很“精致”）而已。基于这一结论，由于我们人类也同样属于生命，因此**我们也仅仅只是一种（复杂而精致）物理现象而已**，并没有什么神秘的地方，也没有所谓的[灵魂](https://zh.wikipedia.org/wiki/灵魂)之类的非物质非能量的组成。
+基于以上结论，我们可以将生命的本质描述如下：**生命是一种复杂的物质及能量的组合及运动的现象**。需要注意的是，与地球绕太阳旋转一样，**生命也同样只是一种物理现象**（属于[耗散系统](https://zh.wikipedia.org/wiki/耗散系統)），同样遵循这个宇宙的物理法则，并没有什么神秘的地方，无非是这个现象很“复杂”（或者说很“精致”）而已。基于这一结论，由于我们人类也同样属于生命，因此**我们也仅仅只是一种（复杂而精致的）物理现象而已**，并没有什么神秘的地方，也没有所谓的[灵魂](https://zh.wikipedia.org/wiki/灵魂)之类的非物质非能量的组成（然而灵魂是存在的，在[智能是什么](/agigai-lun/wei-shi-yao-yan-fa-agi/zhi-neng-shi-shi-yao.md)一节中我们会赋予这个词语新的解释）。
 
 ## 生命的起源
 
@@ -121,7 +122,7 @@
 
 显然，在”生命的意义是什么“这一语境下，”意义“是指价值、作用的意思。然而，价值、作用都是具有作用对象的词语，它们是不能脱离作用对象而存在的，只能说XX对XX的价值/作用，而意义也是如此，脱离了作用对象，”意义“这一概念也将不复存在。而在我们的口语表述中由于基于常识和语境很容易推出作用主体，作用对象就常常被省略不说了，譬如”学习的意义“通常是指”学习对于人来说的意义“，而不是学习对于玻璃瓶、石头之类的意义。另外，相信你们一定多少觉得上面的”学习对于玻璃瓶、石头之类的意义“的表述有些怪异，而这种怪异感实际上揭示了”意义“这一概念的另一个重要特征：意义的作用对象必须是一个具有主观意识的主体。玻璃瓶、石头等并不具有主观意识，因此不适用于”意义“这一概念。然而，什么是主观意识呢？这是一个很模糊的、缺乏准确定义的概念，这里我们指定认为有”智能“的东西具有主观意识，而”智能“简单的说是指具有思考的能力，更加具体详细的定义将在下一节”[智能是什么](/agigai-lun/wei-shi-yao-yan-fa-agi/zhi-neng-shi-shi-yao.md)“中给出。
 
-上面我们通过对”意义“这一概念的探讨，得出了”**意义必须具有作用对象，且作用对象必须具有主观意识**“的结论，并且知道了”意义“是价值、作用的意思。那么，补上作用对象，”生命的意义是什么“这一问题的完整表述就是：生命对于生命的作用/价值是什么？这样表述，这一问题中的矛盾之处就明显了很多：生命现象本身是一个客观现象，是不具有主观意识的，而由于意义的作用对象必须具有主观意识，所以这里”生命“只能作为意义的产生者，而不能作为意义的作用对象，这就是本小结一开头说”这个问题实际上是不成立的“的原因。
+上面我们通过对”意义“这一概念的探讨，得出了”**意义必须具有作用对象，且作用对象必须具有主观意识**“的结论，并且知道了”意义“是价值、作用的意思。那么，补上作用对象，”生命的意义是什么“这一问题的完整表述就是：生命对于生命的作用/价值是什么？这样表述，这一问题中的矛盾之处就明显了很多：生命现象本身是一个客观现象，是不具有主观意识的，而由于意义的作用对象必须具有主观意识，所以这里”生命“只能作为意义的产生者，而不能作为意义的作用对象，这就是本小节一开头说”这个问题实际上是不成立的“的原因。
 
 或许有人会说，把作用对象换成”人类“不就可以了吗，人类不也是生命吗？是的，把作用对象换成人类后，问题表述”生命对于人类的作用/价值是什么？“就站得住脚了，并且也有答案了：生命现象对于不同人类个体的意义可能千差万别，但通常是“可以使人感觉愉快”、“令人觉得这个星球很美丽”、“使人感觉世界很精彩”这样的答案。是不是感觉有哪里不对劲？我们问出“生命的意义”是什么这一问题的根本原因是我们想知道生命的“客观意义”是什么，譬如生命对于宇宙的意义，进而将之作为自己规划人生乃至种族水平上的行动的决策依据，而生命对于我们人类的意义则并不是我们原来的问题。然而，在客观对象上，根本就不存在“意义”这一概念——**主观概念不适用于客观对象**，因此，很遗憾，**我们所提出的问题——“生命的客观意义是什么？”**，其本身根本就不成立。既然问题不成立，也就不存在答案，这意味着连“生命的存在根本没有任何意义、生命仅仅只是复杂些的物理现象而已”这样的人们通常不会接受的答案也不能被用在这个问题上。毕竟，**这个问题本身压根就不成立、不存在！客观领域里根本没有“意义”这一概念！**
 
