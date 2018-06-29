@@ -1,7 +1,5 @@
 # 宇宙是什么
 
----
-
 在开始关于“宇宙是什么”的探讨之前，首先我需要声明一点：我并不是物理专家，我所知道的关于宇宙的知识也仅仅停留在科普层面。因此，本节中关于宇宙是什么的探讨很可能会显得不够科学严谨，如果各位能指出本节中不正确的地方并加以矫正，将不胜感激。那么下面就开始了～
 
 简单的来说，**宇宙是我们对自己可观测到的最大范围内的事物及现象的集合的称谓**，关于宇宙的较为严谨的定义可以参考[维基百科](https://zh.wikipedia.org/wiki/Wikipedia:关于)里的“[宇宙](https://zh.wikipedia.org/wiki/宇宙)”条目：
@@ -31,7 +29,7 @@
 
 话虽如此，然而我的物理知识确实十分有限，也没有对宇宙进行过深入的研究，甚至连维基百科上的“[宇宙](https://zh.wikipedia.org/wiki/宇宙)”条目也无法完全看懂，所以这里我也就只能直接引用维基百科中“[宇宙](https://zh.wikipedia.org/wiki/宇宙)”条目的一些内容供大家参考，然后基于我对这些内容的理解总结一下“宇宙是什么”。
 
-### 关于宇宙的大小：
+## 关于宇宙的大小：
 
 > 宇宙的大小目前仍難以界定。根據一種較為嚴謹的定義，宇宙為與自身所繫[時空](https://zh.wikipedia.org/wiki/時空)的任何一切，且人們與時空可以相互互動[\[41\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-41)。根據[廣義相對論](https://zh.wikipedia.org/wiki/廣義相對論)，宇宙[空間](https://zh.wikipedia.org/wiki/空间_%28物理%29)中的部分區域可能會因為有限[光速](https://zh.wikipedia.org/wiki/光速)與持續的[空間擴展](https://zh.wikipedia.org/w/index.php?title=空間尺度擴展&action=edit&redlink=1)，導致在宇宙存在的時間中，永遠無法與人們產生互動。舉例，從地球發出的廣播訊息，即使宇宙永遠存在，可能永遠無法抵達宇宙空間中的部分區域：空間擴展所花費的時間，會比光抵達該區域的時間還快[\[42\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-Kaku2008-42)。
 >
@@ -41,7 +39,7 @@
 >
 > 另一个在物理学数量级估计中常用来表示宇宙大小的距离称为哈勃距离，是[哈勃常数](https://zh.wikipedia.org/wiki/哈勃常数)的倒数乘以光速，其数值约为1.29×1026公尺，也約为138亿光年。科普和科技书籍中所指宇宙的大小常指这个数值。哈勃距离可理解为[四维时空](https://zh.wikipedia.org/wiki/四维时空)的[曲率半径](https://zh.wikipedia.org/wiki/曲率半徑)。
 
-### 关于宇宙的组成：
+## 关于宇宙的组成：
 
 > 宇宙幾乎是由[暗能量](https://zh.wikipedia.org/wiki/暗能量)、[暗物質](https://zh.wikipedia.org/wiki/暗物質)與[原有物質](https://zh.wikipedia.org/wiki/物質)組成。其他的成分為[電磁波](https://zh.wikipedia.org/wiki/電磁波)（約占0.005-0.01%）與[反物質](https://zh.wikipedia.org/wiki/反物質)[\[52\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-52)[\[53\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-53)[\[54\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-54)。宇宙中所產生的電磁波總量，在過去20億年中減少了一半[\[55\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-55)[\[56\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-56)。
 >
@@ -51,7 +49,7 @@
 >
 > 在規模比超星系團大的可觀測宇宙，具有[各向同性](https://zh.wikipedia.org/wiki/各向同性)，也就是從地球上觀察宇宙的任一方向，其統計學上的性質皆相同。宇宙中充滿了強烈且各向同性的[微波](https://zh.wikipedia.org/wiki/微波)[輻射](https://zh.wikipedia.org/wiki/電磁波)，對應於[熱平衡](https://zh.wikipedia.org/wiki/熱平衡)[黑體波譜](https://zh.wikipedia.org/wiki/黑體_%28物理學%29)，大約為2.72548[克耳文](https://zh.wikipedia.org/wiki/克耳文)[\[5\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-Fixsen-5)。「大尺度宇宙為各向同性」的假說，成為目前為人所知的[宇宙學原理](https://zh.wikipedia.org/wiki/宇宙學原理)[\[67\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-67)。無論在任何一個瞭望點觀察宇宙，皆具有均勻性與各向同性[\[68\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-Liddle-68)，且宇宙沒有所謂的中心[\[69\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-livio-69)。
 >
-> ### 暗能量\[[edit](https://zh.wikipedia.org/w/index.php?title=宇宙&action=edit&section=9)\]
+> ## 暗能量\[[edit](https://zh.wikipedia.org/w/index.php?title=宇宙&action=edit&section=9)\]
 >
 > 主条目：
 >
@@ -61,7 +59,7 @@
 >
 > 目前科學家所提出暗能量的兩個型態，皆為[宇宙學常數](https://zh.wikipedia.org/wiki/宇宙學常數)；其一是「靜態」的能量密度，它能均勻分佈在空間中[\[71\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-carroll-71)，以及如[第五元素](https://zh.wikipedia.org/wiki/第五元素_%28物理學%29)或[模數](https://zh.wikipedia.org/w/index.php?title=模數_%28物理學%29&action=edit&redlink=1)等[純量場](https://zh.wikipedia.org/w/index.php?title=純量場理論&action=edit&redlink=1)中；其二是「動態」的能量密度量數，會隨者空間與時間而有所變化。宇宙學常數通常也包含了恆定空間中純量場的貢獻。宇宙學常數可被定義為等同[真空能量](https://zh.wikipedia.org/wiki/真空能量)。如果純量場之間僅有非常微小的空間不均勻差異，那光從宇宙學常數是無法分辨出這些純量場。
 
-### 关于宇宙的物理性质：
+## 关于宇宙的物理性质：
 
 > 宇宙的[時空](https://zh.wikipedia.org/wiki/時空)通常以[歐幾里得](https://zh.wikipedia.org/wiki/歐幾里得空間)的觀點解析，也就是[三維空間](https://zh.wikipedia.org/wiki/三維空間)加上時間[維度](https://zh.wikipedia.org/wiki/維度)的「[四維空間](https://zh.wikipedia.org/wiki/四维空间)[\[38\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-38)」。時間與空間可結合成一個[流形](https://zh.wikipedia.org/wiki/流形)，稱作[閔考斯基時空](https://zh.wikipedia.org/wiki/閔考斯基時空)；物理學家以此簡化了大量的[物理理論](https://zh.wikipedia.org/wiki/理論物理學)，並使用更統一的方式，描述包含[超星系](https://zh.wikipedia.org/wiki/物理宇宙学)與[次原子](https://zh.wikipedia.org/wiki/量子力學)層次的宇宙運作機制。
 >
@@ -71,13 +69,13 @@
 >
 > 宇宙中有著[物質](https://zh.wikipedia.org/wiki/物質)比[反物質](https://zh.wikipedia.org/wiki/反物質)多的現象，這種不對稱可以從[CP破壞](https://zh.wikipedia.org/wiki/CP破壞)的觀察中得到[\[39\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-39)。宇宙既沒有[動量](https://zh.wikipedia.org/wiki/動量)，也沒有[角動量](https://zh.wikipedia.org/wiki/角動量)；假設宇宙有限，就會遵循公認的物理定律（分別是[高斯定律](https://zh.wikipedia.org/wiki/高斯定律)與[應力-能量-動量贗張量](https://zh.wikipedia.org/w/index.php?title=應力-能量-動量贗張量&action=edit&redlink=1)的非散發型態[\[40\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-40)）。
 
-### 关于多重宇宙：
+## 关于多重宇宙：
 
 > 对于多重宇宙有不同的理解。一种理解是，位于可观测宇宙之外的时空，构成其它的宇宙。例如，在[宇宙暴脹](https://zh.wikipedia.org/wiki/宇宙暴脹)中形成的其它大量时空，或者我们宇宙中[黑洞](https://zh.wikipedia.org/wiki/黑洞)[奇点](https://zh.wikipedia.org/wiki/奇点)内我们所无法理解的时空。这些不同的时空部分总体构成了多重宇宙。另一种理解则强调这些不同的宇宙不仅仅是时空区的独立，而且其中的表现的物理规律也可能有所不同，例如其中的粒子也许具有不同的电荷或质量，其物理常数也各不相同。
 >
 > 有时人们也把[平行宇宙](https://zh.wikipedia.org/wiki/平行宇宙)与多重宇宙当作同义词。不过，平行宇宙还有一种理解，即[量子力学](https://zh.wikipedia.org/wiki/量子力学)中的多世界解释。这种解释认为，在量子力学中，存在多个平行的世界，在每个世界中，每次[量子力学测量](https://zh.wikipedia.org/w/index.php?title=量子力学测量&action=edit&redlink=1)的结果各自不同，因此不同的历史发生在不同的平行世界中。
 
-### 关于宇宙的未来：
+## 关于宇宙的未来：
 
 > 根据[天文](https://zh.wikipedia.org/wiki/天文)观测和宇宙学理论，可以对可观测宇宙未来的演化作出预言。均匀各向同性的宇宙的膨胀满足[弗里德曼方程](https://zh.wikipedia.org/wiki/弗里德曼方程)。
 >
@@ -85,20 +83,20 @@
 >
 > 然而，根据近年来对[超新星](https://zh.wikipedia.org/wiki/超新星)和[宇宙微波背景辐射](https://zh.wikipedia.org/wiki/宇宙微波背景辐射)等天文观测所知，虽然物质的密度小于临界密度，宇宙的几何却是平直的，也即宇宙总密度应该等于临界密度。并且，膨胀正在加速。这些现象说明宇宙中存在着[暗能量](https://zh.wikipedia.org/wiki/暗能量)。不同于普通所说的“物质”，暗能量产生的重力不是[引力](https://zh.wikipedia.org/wiki/引力)而是[斥力](https://zh.wikipedia.org/w/index.php?title=斥力&action=edit&redlink=1)。在存在暗能量的情况下，宇宙的最终命运取决于暗能量的密度和性质，較不可能是“[大擠壓](https://zh.wikipedia.org/wiki/大擠壓)”，可能是渐缓膨胀趋于稳定，更可能是继续无限膨胀或不断加速膨胀至连原子也被摧毁的“[大撕裂](https://zh.wikipedia.org/wiki/大撕裂)”（big rip）。目前，由于对暗能量的性质缺乏了解，还难以对宇宙的命运作出肯定的预言。
 
-### 关于宇宙的起源：
+## 关于宇宙的起源：
 
 > 當前能解釋宇宙發展的模型為大爆炸理論[\[35\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-35)[\[36\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-36)。大爆炸模型指出，宇宙最早處於溫度與密度極高的狀態中，接著開始膨脹。該模型基於[廣義相對論](https://zh.wikipedia.org/wiki/廣義相對論)與空間[同質性](https://zh.wikipedia.org/w/index.php?title=同質_%28物理學%29&action=edit&redlink=1)、[各向同性](https://zh.wikipedia.org/wiki/各向同性)等簡單推論而來。為了針對宇宙的各種觀察進行說明，科學家使用了包含[宇宙學常數](https://zh.wikipedia.org/wiki/宇宙學常數)與[冷暗物質](https://zh.wikipedia.org/wiki/冷暗物质)在內的簡單模型，稱做[ΛCDM模型](https://zh.wikipedia.org/wiki/ΛCDM模型)。大爆炸模型針對星系間的距離關聯性與[紅移](https://zh.wikipedia.org/wiki/紅移)現象、氫與氧原子的數目比例、以及微波輻射背景等觀察做出說明。
 >
 > | [宇宙的時間表](https://zh.wikipedia.org/wiki/宇宙年表) |
 > | :--- |
-> | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/600px-CMB_Timeline300_no_WMAP.jpg "CMB Timeline300 no WMAP.jpg")](https://zh.wikipedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg) |
+> | [![CMB Timeline300 no WMAP.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/600px-CMB_Timeline300_no_WMAP.jpg)](https://zh.wikipedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg) |
 > | 在本圖中，時間軸方向為從左至右，宇宙的其中一個維度則予以隱藏，因此在圖中的任何給定時間，宇宙會以碟狀「切片」的型態顯示。 |
 >
 > 宇宙初始時的高熱、高密度狀態，稱為[普朗克時期](https://zh.wikipedia.org/wiki/普朗克时期)；此時期從時間零點到1個[普朗克時間](https://zh.wikipedia.org/wiki/普朗克時間)單位，需時約10−43秒，非常短暫。普朗克時期期間，所有型態的物質與能量都會集中，達到緊緻的狀態；此時科學家相信[重力](https://zh.wikipedia.org/wiki/重力)與其他的[基本力](https://zh.wikipedia.org/wiki/基本交互作用)一樣強大且達成[統一](https://zh.wikipedia.org/wiki/大统一理论)的狀態。普朗克時期過後，宇宙開始[膨脹](https://zh.wikipedia.org/w/index.php?title=空間尺度擴展&action=edit&redlink=1)成現在的型態；也許宇宙在如此短的時間發生[暴脹](https://zh.wikipedia.org/wiki/宇宙暴脹)，導致其體積能夠在[10−32](https://zh.wikipedia.org/wiki/科学计数法)秒內達到非常大的規模[\[37\]](https://zh.wikipedia.org/wiki/宇宙#cite_note-Sivaram-37)。
 >
 > 在普朗克時期與暴脹時期之後，宇宙開始經歷[夸克](https://zh.wikipedia.org/wiki/夸克時期)、[強子](https://zh.wikipedia.org/wiki/強子時期)與[輕子時期](https://zh.wikipedia.org/wiki/輕子時期)。從大爆炸之後起算，前面所述的這些時期所經歷的時間，總共不超過10秒。
 
-### 总结：宇宙是什么？
+## 总结：宇宙是什么？
 
 虽然我无法完全理解以上的引用内容，但关于宇宙的总体认知依然是需要的，所以下面我就基于我对以上内容的理解给出我关于“宇宙是什么”这一问题的答案。
 
@@ -114,9 +112,7 @@
 
 目前的我，或许甚至目前的人类，对以上的疑问毫无头绪。
 
----
-
-#### 关于其它的宇宙理论：
+### 关于其它的宇宙理论：
 
 以上是科学界的主流宇宙观，然而，宗教和神话也同样阐述了一些[不同的宇宙观](https://zh.wikipedia.org/wiki/創世神話)，虽然这些宇宙观在具体内容上不同，但大抵都是讲神创造了世界万物、规定了万物法则。
 
